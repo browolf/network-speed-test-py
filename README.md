@@ -17,7 +17,7 @@ You need to edit the network share location in the script.
 
 a client server application that tests the network speed between 2 locations. 
 
-A large iso is hosted on a webserver and another program fetches it and records the speed. The webserver can be run on a laptop plugged in the network or a virtual server. 
+A large iso is hosted on a webserver and another program fetches it and records the speed. The webserver can be run on a laptop plugged in the network or a virtual server.  Recommend a large DVD iso such as https://ubuntu.com/download/desktop - rename the file to file.iso 
 
 The client script asks for the ip of the webserver host. 
 
