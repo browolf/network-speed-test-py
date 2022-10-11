@@ -1,4 +1,4 @@
-# network-speed-test-py
+# Applications for testing Networks
 
 ## Speedtest.net.py
 
