@@ -1,4 +1,4 @@
-# Applications for testing Networks
+# Python Applications for testing Networks
 
 ## Speedtest.net.py
 
